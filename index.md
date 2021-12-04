@@ -5,21 +5,21 @@
 
 また、このロードマップはHUITのどなたでも編集可能となっています。ぜひ作成にご協力ください。
 
-#### [フロントエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/frontend/index.md)
+#### [フロントエンド](https://al-mikan.github.io/HUIT_loadmap/frontend/index.md)
   - ああ
-#### [バックエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/backend/index.md)
+#### [バックエンド](https://al-mikan.github.io/HUIT_loadmap/backend/index.md)
   - ああ
-#### [インフラ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/infrastructure.md)
+#### [インフラ](https://al-mikan.github.io/HUIT_loadmap/infrastructure.md)
   - ああ
-#### [3DCG](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/3DCG.md)
+#### [3DCG](https://al-mikan.github.io/HUIT_loadmap/3DCG.md)
   - ああ
-#### [機械学習](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/AI.md)
+#### [機械学習](https://al-mikan.github.io/HUIT_loadmap/AI.md)
   - ああ
-#### [スマホアプリ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/application.md)
+#### [スマホアプリ](https://al-mikan.github.io/HUIT_loadmap/application.md)
   - ああ
-#### [ラズパイ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/raspberrypi.md)
+#### [ラズパイ](https://al-mikan.github.io/HUIT_loadmap/raspberrypi.md)
   - aaa
-#### [Unity](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/unity.md)
+#### [Unity](https://al-mikan.github.io/HUIT_loadmap/unity.md)
   - aa
 
 
