@@ -5,9 +5,9 @@
 
 また、このロードマップはHUITのどなたでも編集可能となっています。ぜひ作成にご協力ください。
 
-#### [フロントエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/frontend.md)
+#### [フロントエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/frontend/index.md)
   - ああ
-#### [バックエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/backend.md)
+#### [バックエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/backend/index.md)
   - ああ
 #### [インフラ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/infrastructure.md)
   - ああ
