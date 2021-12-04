@@ -6,21 +6,21 @@
 また、このロードマップはHUITのどなたでも編集可能となっています。ぜひ作成にご協力ください。
 
 #### [フロントエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/frontend.md)
-  -
+  - ああ
 #### [バックエンド](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/backend.md)
-  - 
+  - ああ
 #### [インフラ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/infrastructure.md)
-  - 
+  - ああ
 #### [3DCG](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/3DCG.md)
-  - 
+  - ああ
 #### [機械学習](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/AI.md)
-  - 
+  - ああ
 #### [スマホアプリ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/application.md)
-  -
+  - ああ
 #### [ラズパイ](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/raspberrypi.md)
-  - 
+  - aaa
 #### [Unity](https://github.com/Al-Mikan/HUIT_loadmap/edit/main/unity.md)
-  - 
+  - aa
 
 
 
