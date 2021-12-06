@@ -5,14 +5,14 @@
 
 また、このロードマップはHUITのどなたでも編集可能となっています。ぜひ作成にご協力ください。
 
-#### [フロントエンド](https://al-mikan.github.io/HUIT_loadmap/frontend/)
-#### [バックエンド](https://al-mikan.github.io/HUIT_loadmap/backend/)
-#### [インフラ](https://al-mikan.github.io/HUIT_loadmap/infrastructure/)
-#### [3DCG](https://al-mikan.github.io/HUIT_loadmap/3DCG/)
-#### [機械学習](https://al-mikan.github.io/HUIT_loadmap/AI/)
-#### [スマホアプリ](https://al-mikan.github.io/HUIT_loadmap/application/)
-#### [ラズパイ](https://al-mikan.github.io/HUIT_loadmap/raspberrypi/)
-#### [Unity](https://al-mikan.github.io/HUIT_loadmap/unity/)
+#### [フロントエンド](https://al-mikan.github.io/HUIT_Roadmap/frontend/)
+#### [バックエンド](https://al-mikan.github.io/HUIT_Roadmap/backend/)
+#### [インフラ](https://al-mikan.github.io/HUIT_Roadmap/infrastructure/)
+#### [3DCG](https://al-mikan.github.io/HUIT_Roadmap/3DCG/)
+#### [機械学習](https://al-mikan.github.io/HUIT_Roadmap/AI/)
+#### [スマホアプリ](https://al-mikan.github.io/HUIT_Roadmap/application/)
+#### [ラズパイ](https://al-mikan.github.io/HUIT_Roadmap/raspberrypi/)
+#### [Unity](https://al-mikan.github.io/HUIT_Roadmap/unity/)
 
 
 
