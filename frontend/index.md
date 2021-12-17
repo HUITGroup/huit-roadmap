@@ -26,8 +26,8 @@
 一部書き換えたり、削除したりすると処理がどう変わるのかを体験すると学習効率が上がります。  
 
 ### 技術
-#### [HTML](https://al-mikan.github.io/HUIT_loadmap/frontend/html)
-#### [CSS](https://al-mikan.github.io/HUIT_loadmap/frontend/css)
-#### [JS](https://al-mikan.github.io/HUIT_loadmap/frontend/js)
-#### [git github](https://al-mikan.github.io/HUIT_loadmap/frontend/git_github)
+#### [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
+#### [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
+#### [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
+#### [git github](https://huitgroup.github.io/huit-roadmap/frontend//git_github)
 
