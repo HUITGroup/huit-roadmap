@@ -8,8 +8,8 @@
 　コンピュータの基本的な操作<br><br>
 
 ##### 他分野とのつながり
-　HTMLのみでは、質素なWebページとなってしまいます。そこで登場するのがデザインを整える[CSS](https://al-mikan.github.io/HUIT_loadmap/frontend/css)です。<br><br>
-　Webページに様々な動作を加えたい時が出てくるでしょう。[JavaScript](https://al-mikan.github.io/HUIT_loadmap/frontend/js)がそれを解決してくれます。<br><br>
+　HTMLのみでは、質素なWebページとなってしまいます。そこで登場するのがデザインを整える[CSS](https://al-mikan.github.io/HUIT_roadmap/frontend/css)です。<br><br>
+　Webページに様々な動作を加えたい時が出てくるでしょう。[JavaScript](https://al-mikan.github.io/HUIT_roadmap/frontend/js)がそれを解決してくれます。<br><br>
 
 ##### おすすめリンク
 　[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/HTML)<br><br>
