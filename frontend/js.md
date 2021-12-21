@@ -9,15 +9,15 @@
 　[HTML](https://al-mikan.github.io/HUIT_roadmap/frontend/html)の基礎<br><br>
 
 ##### 他分野とのつながり
-　AngularJS、React、Vue.jsなどJavaScriptで書かれているライブラリは数多くあります。<br><br>
-　<br><br>
+　AngularJS、React、Vue.jsなどJavaScriptで書かれているライブラリは数多くあります。これらのライブラリを用いると開発をより簡単に行うことができます。<br><br>
 
 ##### おすすめリンク
 　[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript)<br><br>
 
 #### 自由記述
-　<br><br>
+　JavaScriptはwebページを作るときには必ずといっていいほど使われます。ぜひマスターしましょう。<br><br>
 
 #### HTMLに詳しいメンバー
 　あるみかん<br>
 　かりんとう<br>
+　うさちょ<br>
