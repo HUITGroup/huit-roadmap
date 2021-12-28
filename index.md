@@ -9,7 +9,7 @@
 #### [フロントエンド](https://huitgroup.github.io/huit-roadmap/frontend/)
 #### [バックエンド](https://huitgroup.github.io/huit-roadmap/backend/)
 #### [インフラ](https://huitgroup.github.io/huit-roadmap/infrastructure/)
-#### [3DCG](https://huitgroup.github.io/huit-roadmap/3DCG/)
+#### [3DCG](https://huitgroup.github.io/huit-roadmap/3dcg/)
 #### [機械学習](https://al-mikan.github.io/HUIT_Roadmap/AI/)
 #### [スマホアプリ](https://al-mikan.github.io/HUIT_Roadmap/application/)
 #### [ラズパイ](https://al-mikan.github.io/HUIT_Roadmap/raspberrypi/)
