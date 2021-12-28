@@ -25,6 +25,6 @@
   - ``https://qiita.com/baby-degu/items/ab29c2a78224a48e0bef``
   
 ### 詳しいHUITのメンバー<br>
-   大村りな<br>
-   たかぴろ<br>
-   あるみかん<br>
+- 大村りな<br>
+- たかぴろ<br>
+- あるみかん<br>
