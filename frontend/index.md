@@ -26,22 +26,22 @@
 一部書き換えたり、削除したりすると処理がどう変わるのかを体験すると学習効率が上がります。  
 
 ### 基礎技術
-#### [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
-#### [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
-#### [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
+### [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
+### [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
+### [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
 
 ## 自由課題！
 今までの知識をつかってタイマーを作ってみよう！！環境構築がまだの方はこちらを先に読んでね
 
 
 ### 応用技術
-#### [git github](https://huitgroup.github.io/huit-roadmap/frontend//git_github)
-#### [API](https://huitgroup.github.io/huit-roadmap/frontend//api)
-#### [React](https://huitgroup.github.io/huit-roadmap/frontend//react)
-#### [npm,yarn](https://huitgroup.github.io/huit-roadmap/frontend//npm_yarn)
-#### [セキュリティー](https://huitgroup.github.io/huit-roadmap/frontend//security)
-#### [Network](https://huitgroup.github.io/huit-roadmap/frontend//network)
-#### [ブラウザの知識](https://huitgroup.github.io/huit-roadmap/frontend//network)
+### [git github](https://huitgroup.github.io/huit-roadmap/frontend/git_github)
+### [API](https://huitgroup.github.io/huit-roadmap/frontend/api)
+### [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
+### [npm,yarn](https://huitgroup.github.io/huit-roadmap/frontend/npm_yarn)
+### [セキュリティー](https://huitgroup.github.io/huit-roadmap/frontend/security)
+### [Network](https://huitgroup.github.io/huit-roadmap/frontend/network)
+### [ブラウザの知識](https://huitgroup.github.io/huit-roadmap/frontend/network)
 
 
 
