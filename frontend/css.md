@@ -23,6 +23,9 @@
 - UIUXについて<br>
   - ``https://digitalidentity.co.jp/blog/ad/uiux-design.html``
   - ``https://qiita.com/baby-degu/items/ab29c2a78224a48e0bef``
+
+### 執筆者
+あるみかん
   
 ### 詳しいHUITのメンバー<br>
 - 大村りな<br>
