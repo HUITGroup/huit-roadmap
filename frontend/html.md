@@ -13,6 +13,7 @@
 
 ##### おすすめリンク
 　[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/HTML)<br><br>
+　[ドットインストール はじめてのWeb制作](https://dotinstall.com/lessons/basic_website)
 
 #### 自由記述
 　HTMLがなんとなくわかったらより実践的なReactに進むのがおすすめです<br><br>

@@ -13,7 +13,7 @@
 
 ##### おすすめリンク
 　[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript)<br><br>
-
+　[ドットインストール はじめてのJavaScript](https://dotinstall.com/lessons/basic_javascript_v5)<br><br>
 #### 自由記述
 　JavaScriptはwebページを作るときには必ずといっていいほど使われます。ぜひマスターしましょう。<br><br>
 
