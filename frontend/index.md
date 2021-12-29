@@ -27,22 +27,36 @@
 
 ### 基礎技術
 ### [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
+Webページの骨格を作成するための言語です。
 ### [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
+Webページの見た目を変える言語です。
 ### [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
+Webページを動的にするための言語です。
+### [git, github](https://huitgroup.github.io/huit-roadmap/frontend/git_github)
+gitはバージョン管理ツール、githubはgitを利用して、ソースコードをWeb上で管理するサービスです。
+### [webの知識](https://huitgroup.github.io/huit-roadmap/frontend/web)
+web系の全体像を学びます。
 
 ## 自由課題！
 今までの知識をつかってタイマーを作ってみよう！！環境構築がまだの方はこちらを先に読んでね
 
 
 ### 応用技術
-### [git github](https://huitgroup.github.io/huit-roadmap/frontend/git_github)
-### [API](https://huitgroup.github.io/huit-roadmap/frontend/api)
-### [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
-### [npm,yarn](https://huitgroup.github.io/huit-roadmap/frontend/npm_yarn)
-### [セキュリティー](https://huitgroup.github.io/huit-roadmap/frontend/security)
-### [Network](https://huitgroup.github.io/huit-roadmap/frontend/network)
-### [ブラウザの知識](https://huitgroup.github.io/huit-roadmap/frontend/network)
 
+### [npm,yarn](https://huitgroup.github.io/huit-roadmap/frontend/npm_yarn)
+Node.jsのパッケージ管理ツールです。
+### [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
+WebサイトのUIを作るためのフレームワークです。
+### [API](https://huitgroup.github.io/huit-roadmap/frontend/api)
+アプリ間で通信するときのインターフェースです。
+### [セキュリティー](https://huitgroup.github.io/huit-roadmap/frontend/security)
+慣れてきたら、ただ動くだけではなくセキュリティを意識して開発してみよう。
+### [Network](https://huitgroup.github.io/huit-roadmap/frontend/network)
+コンピュータ間でどのように通信を行っているのか気にしてみよう。
+
+<!--
+### [ブラウザの知識](https://huitgroup.github.io/huit-roadmap/frontend/network)
+-->
 
 
 
