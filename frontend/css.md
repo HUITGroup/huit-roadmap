@@ -18,7 +18,7 @@
 - 何ができるのか<br>
 
     下のようにhtmlにcssを付けるとボタンの色や形、文字のサイズや色などを決めることが出来ます！またアニメーションなども作れます。
-    <img src="./assets/frontend/css1.png">
+    <img src="https://github.com/HUITGroup/huit-roadmap/blob/main/assets/frontend/css1.png">
     
 ### 好きな記事書いてください<br>
 - UIUXについて<br>
