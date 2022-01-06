@@ -1,1 +1,5 @@
+lang: ja
 theme: jekyll-theme-slate
+exclude:
+  - README.md
+locale: ja_JP
