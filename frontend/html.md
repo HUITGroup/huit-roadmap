@@ -1,26 +1,30 @@
 ## HTML
-### 概要
-#### Q&A
-##### HTMLってなに？
-　HTMLはWebページの大まかな骨格を作るために必要な言語の１つです。<br><br>
+HTMLについての記事です
+### Q&A
+- HTMLとは？<br>
 
-##### 前提となる知識・技術
-　コンピュータの基本的な操作<br><br>
+    HTMLはWebページの大まかな骨格を作るために必要な言語の１つです。HTMLタグと呼ばれるものを用いて画像を表示したり、リンクを指定したりします。
 
-##### 他分野とのつながり
-　HTMLのみでは、質素なWebページとなってしまいます。そこで登場するのがデザインを整える[CSS](https://al-mikan.github.io/HUIT_roadmap/frontend/css)です。<br><br>
-　Webページに様々な動作を加えたい時が出てくるでしょう。[JavaScript](https://al-mikan.github.io/HUIT_roadmap/frontend/js)がそれを解決してくれます。<br><br>
+- 前提となる知識・技術<br>
 
-##### おすすめリンク
-　[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/HTML)<br><br>
-　[ドットインストール はじめてのWeb制作](https://dotinstall.com/lessons/basic_website)
+    コンピュータの基本的な操作
 
-#### 自由記述
-　HTMLがなんとなくわかったらより実践的なReactに進むのがおすすめです<br><br>
+- 他分野とのつながり<br>
+
+    HTMLのみでは、質素なWebページとなってしまいます。そこで登場するのがデザインを整える[CSS](https://al-mikan.github.io/HUIT_roadmap/frontend/css)です。
+Webページに様々な動作を加えたい時が出てくるでしょう。[JavaScript](https://al-mikan.github.io/HUIT_roadmap/frontend/js)がそれを解決してくれます。
+
+- おすすめリンク<br>
+
+  - [MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/HTML)
+  - [ドットインストール はじめてのWeb制作](https://dotinstall.com/lessons/basic_website)
+
+### 好きな記事書いてください
+  HTMLがなんとなくわかったらより実践的なReactに進むのがおすすめです
 
 ### 執筆者
-　うさちょ
+  うさちょ
 
-#### HTMLに詳しいメンバー
-　あるみかん<br>
-　かりんとう<br>
+### HTMLに詳しいメンバー
+- あるみかん<br>
+- かりんとう<br>
