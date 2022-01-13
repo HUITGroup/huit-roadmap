@@ -26,15 +26,15 @@
 
 ### 基礎技術
 
-### [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
 
 Web ページの骨格を作成するための言語です。
 
-### [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
 
 Web ページの見た目を変える言語です。
 
-### [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
 
 Web ページを動的にするための言語です。
 
@@ -56,7 +56,7 @@ web 系の全体像を学びます。
 
 Node.js のパッケージ管理ツールです。
 
-### [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
 
 Web サイトの UI を作るためのフレームワークです。
 
