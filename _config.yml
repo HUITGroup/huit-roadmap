@@ -1,5 +1,5 @@
 lang: ja
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 exclude:
   - README.md
 locale: ja_JP
