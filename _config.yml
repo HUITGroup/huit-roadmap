@@ -4,10 +4,10 @@ exclude:
   - README.md
 locale: ja_JP
 title: "HUIT ROADMAP"
-minimal_mistakes_skin: "default"
-masthead_title: "HUIT-ROADMAP"
+minimal_mistakes_skin: "air"
 show_date: true
 search: true
+logo: "/assets/images/huit-logo.png"
 
 plugins:
   - jekyll-paginate
@@ -19,7 +19,7 @@ plugins:
 
 twitter:
   username: "huitgroup"
-
+author-profile: true
 author:
   name     : "HUIT"
   avatar   : "/assets/images/bio-photo.jpg"
