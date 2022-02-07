@@ -26,23 +26,23 @@
 
 ### 基礎技術
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> [HTML](https://huitgroup.github.io/huit-roadmap/frontend/html)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> [HTML]( {{ 'frontend/html' | relative_url }})
 
 Web ページの骨格を作成するための言語です。
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> [CSS](https://huitgroup.github.io/huit-roadmap/frontend/css)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> [CSS]( {{ 'frontend/css' | relative_url }})
 
 Web ページの見た目を変える言語です。
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> [JS](https://huitgroup.github.io/huit-roadmap/frontend/js)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> [JS]( {{ 'frontend/js' | relative_url }})
 
 Web ページを動的にするための言語です。
 
-### [git, github](https://huitgroup.github.io/huit-roadmap/frontend/git_github)
+### [git, github]( {{ 'frontend/git_github' | relative_url }})
 
 git はバージョン管理ツール、github は git を利用して、ソースコードを Web 上で管理するサービスです。
 
-### [web の知識](https://huitgroup.github.io/huit-roadmap/frontend/web)
+### [web の知識]( {{ 'frontend/web' | relative_url }})
 
 web 系の全体像を学びます。
 
@@ -52,23 +52,23 @@ web 系の全体像を学びます。
 
 ### 応用技術
 
-### [npm,yarn](https://huitgroup.github.io/huit-roadmap/frontend/npm_yarn)
+### [npm,yarn]( {{ 'frontend/npm_yarn' | relative_url }})
 
 Node.js のパッケージ管理ツールです。
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> [React](https://huitgroup.github.io/huit-roadmap/frontend/react)
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> [React]( {{ 'frontend/react' | relative_url }})
 
 Web サイトの UI を作るためのフレームワークです。
 
-### [API](https://huitgroup.github.io/huit-roadmap/frontend/api)
+### [API]( {{ 'frontend/api' | relative_url }})
 
 アプリ間で通信するときのインターフェースです。
 
-### [セキュリティー](https://huitgroup.github.io/huit-roadmap/frontend/security)
+### [セキュリティー]( {{ 'frontend/security' | relative_url }})
 
 慣れてきたら、ただ動くだけではなくセキュリティを意識して開発してみよう。
 
-### [Network](https://huitgroup.github.io/huit-roadmap/frontend/network)
+### [Network]( {{ 'frontend/network' | relative_url }})
 
 コンピュータ間でどのように通信を行っているのか気にしてみよう。
 

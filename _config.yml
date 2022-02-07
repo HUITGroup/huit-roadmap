@@ -2,12 +2,6 @@ lang: ja
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 exclude:
   - README.md
-locale: ja_JP
-title: "HUIT ROADMAP"
-minimal_mistakes_skin: "air"
-show_date: true
-search: true
-logo: "/assets/images/huit-logo.png"
 
 plugins:
   - jekyll-paginate
@@ -17,12 +11,22 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# minimal mistakes settings
+locale: ja_JP
+title: "HUIT ROADMAP"
+minimal_mistakes_skin: "air" # 全体の色合い
+show_date: true
+search: true
+logo: "/assets/images/huit-logo.png"
+include:
+  - _pages
+
 twitter:
   username: "huitgroup"
 author-profile: true
 author:
   name     : "HUIT"
-  avatar   : "/assets/images/bio-photo.jpg"
+  avatar   : "/assets/images/huit-logo.png"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
@@ -32,8 +36,23 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HUITGroup"
 
----
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
----
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      # Table of contents
+      toc: true
+      toc_label: "My Table of Contents"
+      toc_icon: "cog"
+      # header
+      header:
+        overlay_image: /assets/images/header.jpg
+        overlay_filter: 0.5
+        caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
+
+
