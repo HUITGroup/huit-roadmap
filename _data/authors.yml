@@ -1,0 +1,24 @@
+HUIT:
+  name     : "HUIT"
+  avatar   : "/assets/images/huit-logo.png"
+  bio      : "HUIT は、北海道大学の学生を中心とした IT 系学生サークルです。
+  北海道のエンジニア学生の交流の場になるようなコミュニティを目指して 2017 年から活動しています。"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/huitgroup"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HUITGroup"
+
+karintou:
+  name     : "karintou"
+  avatar   : "/assets/images/karintou.jpg"
+  bio      : "フライドポテトが好きな人です。"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/karintou74073"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/karintou8710"

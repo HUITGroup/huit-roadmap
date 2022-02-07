@@ -24,17 +24,6 @@ include:
 twitter:
   username: "huitgroup"
 author-profile: true
-author:
-  name     : "HUIT"
-  avatar   : "/assets/images/huit-logo.png"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/huitgroup"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/HUITGroup"
 
 defaults:
   # _pages
@@ -44,6 +33,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: HUIT
       # Table of contents
       toc: true
       toc_label: "My Table of Contents"
