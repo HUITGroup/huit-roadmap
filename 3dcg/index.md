@@ -1,4 +1,6 @@
-
+---
+author: usatyo
+---
 ## 3DCG
 ### 3DCGとは
 

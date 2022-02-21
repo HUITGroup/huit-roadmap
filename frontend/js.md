@@ -1,4 +1,6 @@
-
+---
+author: usatyo
+---
 ## JavaScript
 ### 概要
 #### Q&A

@@ -22,3 +22,51 @@ karintou:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/karintou8710"
+
+usatyo:
+  name     : "usatyo"
+  avatar   : "/assets/images/usatyo.jpg"
+  bio      : "料理マスター"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/usatyo1"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/usatyo"
+
+almikan:
+  name     : "あるみかん"
+  avatar   : "/assets/images/almikan.png"
+  bio      : "イラストマスター"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AluminumMikan"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Al-Mikan"
+
+ayumin:
+  name     : "ayumin"
+  avatar   : "/assets/images/ayumin.jpg"
+  bio      : "インフラマスター"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/shoumoji"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shoumoji"
+
+ojizosan:
+  name     : "ojizosan"
+  avatar   : "/assets/images/ojizosan.jpg"
+  bio      : "ロードバイクマスター"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ojiz0san"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ojizosan"

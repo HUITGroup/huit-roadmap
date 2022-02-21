@@ -1,3 +1,6 @@
+---
+author: almikan
+---
 ## CSS
 ここではCSSについて扱います
 ### Q&A
