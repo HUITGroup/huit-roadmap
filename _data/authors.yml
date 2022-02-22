@@ -38,7 +38,7 @@ usatyo:
 almikan:
   name     : "あるみかん"
   avatar   : "/assets/images/almikan.png"
-  bio      : "イラストマスター"
+  bio      : "みかんが好きな人"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
