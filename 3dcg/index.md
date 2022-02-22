@@ -27,13 +27,13 @@ author: usatyo
 
 
 ### 応用技術
-#### [ポリゴンモデリング](https://huitgroup.github.io/huit-roadmap/frontend//git_github)
-#### [スカルプトモデリング](https://huitgroup.github.io/huit-roadmap/frontend//api)
-#### [テクスチャリング](https://huitgroup.github.io/huit-roadmap/frontend//react)
-#### [ライティング](https://huitgroup.github.io/huit-roadmap/frontend//npm_yarn)
-#### [アニメーション](https://huitgroup.github.io/huit-roadmap/frontend//security)
-#### [シミュレーション](https://huitgroup.github.io/huit-roadmap/frontend//network)
-#### [コンポジット](https://huitgroup.github.io/huit-roadmap/frontend//network)
+#### [ポリゴンモデリング](https://huitgroup.github.io/huit-roadmap/3dcg/polygon)
+#### [スカルプトモデリング](https://huitgroup.github.io/huit-roadmap/3dcg/sculpt)
+#### [テクスチャリング](https://huitgroup.github.io/huit-roadmap/3dcg/texture)
+#### [ライティング](https://huitgroup.github.io/huit-roadmap/3dcg/light)
+#### [アニメーション](https://huitgroup.github.io/huit-roadmap/3dcg/animation)
+#### [シミュレーション](https://huitgroup.github.io/huit-roadmap/3dcg/simulation)
+#### [コンポジット](https://huitgroup.github.io/huit-roadmap/3dcg/composit)
 
 
 
