@@ -23,10 +23,9 @@ author: almikan
 
 [サル先生のGit入門](https://backlog.com/ja/git-tutorial/intro/01/)
   
-#### 好きな記事書いてください<br>
 
 
 
-### 詳しい HUIT のメンバー<br>
+### 詳しい HUIT のメンバー
 - かりんとう
 - たかぴろ
