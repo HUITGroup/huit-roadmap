@@ -26,7 +26,7 @@ karintou:
 usatyo:
   name     : "usatyo"
   avatar   : "/assets/images/usatyo.jpg"
-  bio      : "料理マスター"
+  bio      : "パティシエの卵"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
