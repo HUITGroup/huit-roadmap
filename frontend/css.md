@@ -33,9 +33,7 @@ author: almikan
 [MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/CSS)<br><br>
 [ドットインストール はじめてのWeb制作](https://dotinstall.com/lessons/basic_website)
 
-### 執筆者
-あるみかん
-  
+
 ### 詳しいHUITのメンバー<br>
 - 大村りな<br>
 - たかぴろ<br>
