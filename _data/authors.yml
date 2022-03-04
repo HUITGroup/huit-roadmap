@@ -70,3 +70,15 @@ ojizosan:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ojizosan"
+
+hanchan:
+  name     : "hanchan"
+  avatar   : "/assets/images/hanchan.jpg"
+  bio      : "ジェダイマスター"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/nori_handa"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/noriHanda"
