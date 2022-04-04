@@ -19,7 +19,7 @@ HUIT のメンバーが初心者向けに書いた、分野ごとの学習手順
 
 ### 編集方法
 
-このレポジトリの main ブランチが [huitgroup.github.io/huit-roadmap](huitgroup.github.io/huit-roadmap/) に反映されるようになっています。  
+このレポジトリの main ブランチが [huitgroup.github.io/huit-roadmap](https://huitgroup.github.io/huit-roadmap) に反映されるようになっています。  
 PR は別のブランチで作業してから main へ送ってください。  
 原則として HUIT のメンバーがレビューをした後にマージします。
 
