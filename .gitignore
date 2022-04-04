@@ -6,3 +6,5 @@ _site/
 .bundle/
 vendor/
 _pages
+
+/node_modules
