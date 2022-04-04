@@ -1,7 +1,7 @@
 on:
   push:
     branches: [main]
-  
+
 jobs:
   format:
     name: formatter
@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 2
+          fetch-depth: 0
       - name: format
         uses: github/super-linter/slim@v4
         env:
