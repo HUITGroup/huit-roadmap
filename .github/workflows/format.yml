@@ -1,6 +1,4 @@
-on:
-  push:
-    branches: [main, gh-actions]
+on: push
 
 jobs:
   format:
@@ -10,10 +8,18 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: format
-        uses: github/super-linter/slim@v4
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          VALIDATE_MARKDOWN: true
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+      - run: npm install prettier
+      - run: node ./node_modules/.bin/prettier --check '**/*.{md}'
+      - name: git setting
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Commit files
+        run: |
+          git add .
+          git commit -m "format" -a
+          git pull
+          git push origin ${GITHUB_REF_NAME}
