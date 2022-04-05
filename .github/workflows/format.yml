@@ -14,13 +14,15 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: "16"
-      - run: npm install prettier
-      - run: node ./node_modules/.bin/prettier --write '**/*.md'
+      - name: install formatter (prettier)
+        run: npm install prettier
+      - name: format
+        run: node ./node_modules/.bin/prettier --write '**/*.md'
       - name: git setting
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github-actions[bot]"
-      - name: Commit files
+      - name: git commit files
         run: |
           git add .
           git commit -m "format" -a
