@@ -28,3 +28,5 @@ jobs:
           git commit -m "format" -a
           git pull
           git push origin ${GITHUB_REF_NAME}
+        env:
+          GITHUB_TOKEN: ${GITHUB_TOKEN}
