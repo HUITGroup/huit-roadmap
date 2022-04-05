@@ -12,7 +12,7 @@ jobs:
         with:
           node-version: "16"
       - run: npm install prettier
-      - run: node ./node_modules/.bin/prettier --check '**/*.{md}'
+      - run: node ./node_modules/.bin/prettier --check '**/*.md'
       - name: git setting
         run: |
           git config --local user.email "actions@github.com"
