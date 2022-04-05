@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "fmt": "prettier --write **/*.md"
   }
 }

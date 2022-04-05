@@ -1,7 +1,4 @@
-on:
-  push:
-    branches:
-      - "main"
+on: pull_request
 
 jobs:
   format:
@@ -10,21 +7,19 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          ref: ${GITHUB_HEAD_REF}
       - uses: actions/setup-node@v3
         with:
           node-version: "16"
       - name: install formatter (prettier)
-        run: npm install prettier
+        run: npm install
       - name: format
-        run: node ./node_modules/.bin/prettier --write '**/*.md'
-      - name: git setting
+        run: npm run fmt
+      - name: git push files
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github-actions[bot]"
-      - name: git commit files
-        run: |
           git add .
           git commit -m "format" -a
           git pull
-          git push origin ${GITHUB_REF_NAME}
+          git push origin ${GITHUB_HEAD_REF}
