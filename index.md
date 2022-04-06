@@ -30,10 +30,9 @@
 
 #### [OSS]({{ 'oss/' | relative_url }})
 
-#### [IT系イベント]({{ 'event/' | relative_url }})
+#### [IT 系イベント]({{ 'event/' | relative_url }})
 
 #### [資格]({{ 'qualification/' | relative_url }})
-
 
 ### 記事の作成を手伝ってくれる方へ
 

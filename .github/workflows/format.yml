@@ -1,0 +1,28 @@
+on: pull_request
+
+jobs:
+  format:
+    name: formatter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{github.event.pull_request.head.ref}}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+      - name: install formatter (prettier)
+        run: npm ci
+      - name: format
+        run: npm run fmt
+      - name: git push files
+        run: |
+          if ! git diff --exit-code --quiet
+          then
+            git config --local user.email "actions@github.com"
+            git config --local user.name "github-actions[bot]"
+            git add .
+            git commit -m "format" -a
+            git pull
+            git push origin ${GITHUB_HEAD_REF}
+          fi
