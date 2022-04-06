@@ -17,9 +17,12 @@ jobs:
         run: npm run fmt
       - name: git push files
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "format" -a
-          git pull
-          git push origin ${GITHUB_HEAD_REF}
+          if ! git diff --exit-code --quiet
+          then
+            git config --local user.email "actions@github.com"
+            git config --local user.name "github-actions[bot]"
+            git add .
+            git commit -m "format" -a
+            git pull
+            git push origin ${GITHUB_HEAD_REF}
+          fi
